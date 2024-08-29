@@ -1,25 +1,33 @@
-# Csgo MHack
+## ELgo
 
-**IMPORTANT: this project has no logner maintain**
+This is a cheat tool for CS:GO, created using Microsoft Visual Studio (C++).
 
-This is a CSGO Cheat, a Multi Hacking, so i call this program "Csgo MHack", Just use the keyboard hotkeys and then you can toggle on/off the cheat.
+### Purpose
 
-This project was made when I was in high school (F3-F4 2018-2019), gitlab just let me place this project. around 4 years ago, time really flies. Since i coding a lot of time on this project. so just let it put here :))
+This project was created for technical and stand-alone use. It was not intended for widespread distribution or use in competitive play but rather as a personal exploration into game modifications and automation.
 
-maybe one day i will come back continue maintain? idk
+## Update for 2024
+
+I developed this script during high school (F3-F4, 2018-2019). Previously, this project was closed-source, but I’ve decided to make it open-source now.
+
+### Will You Continue Development?
+
+Since I’ve been using GNU/Linux as my daily driver for a long time, Windows software is no longer a priority for me. Therefore, I won’t be focusing on Windows-related updates. In short, the answer is `No`.
+
+To be honest, the game that was dear to my heart has already been taken down. Even if CS2 becomes available on Proton while supports GNU/Linux, I probably won’t create cheats again. If circumstances change, this project might commit again, but for now, there will be no further development.
 
 ## Features
 
-i made some hacking for this csgo hacking, below is list.
+Here’s a list of the features included in this CS:GO cheat:
 
-- Trigger bot - Press F1 Toggle, Hold ALT to Trigger
-- BunnyHop - Press F2 Toggle, Hold space to Bunnyhop
-- Anti-Flash - Press F3 Toggle
-- Anti-Smoke - Press F4 Toggle
-- No hand - Press NumPad0 Toggle
-- Rader hack - Press NumPad1 Toggle
-- Fov changer - Press Numpad2 Toggle
-- Enable 3rd mode - Press Numpad3 Toggle
+- **Trigger Bot** - Press F1 to toggle, hold ALT to trigger
+- **BunnyHop** - Press F2 to toggle, hold SPACE to bunnyhop
+- **Anti-Flash** - Press F3 to toggle
+- **Anti-Smoke** - Press F4 to toggle
+- **No Hand** - Press NumPad0 to toggle
+- **Radar Hack** - Press NumPad1 to toggle
+- **FOV Changer** - Press NumPad2 to toggle
+- **Enable 3rd Person Mode** - Press NumPad3 to toggle
 
 ![wait](./Wait-you-open-csgo.png)
 ![main](./Main.png)
